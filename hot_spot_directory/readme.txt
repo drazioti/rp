@@ -1,5 +1,5 @@
 This is an example of how to turn a raspberry pi3 to a hotspot
-using a conncetion from  mobile - usb - stick.
+using a connection from  mobile - usb - stick.
 
 You have to install : hostaspd and dnsmasq
 $sudo apt-get install hostapd
@@ -21,4 +21,4 @@ If you want to go back to the usual wifi
 $. ./revert.sh
 
 
-
+DISCLAIMER : Use it with your own risk!
