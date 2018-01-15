@@ -1,6 +1,8 @@
 # run . ./start_wifi_ap
 #!/bin/bash
 clear
+sudo touch /etc/network/interfaces.default
+sudo cp /etc/network/interfaces /etc/network/interfaces.default
 sudo cp /home/pi/hot_spot_directory/interafaces.hot_spot   /etc/network/interfaces
 sudo service networking restart
 
