@@ -1,7 +1,7 @@
 This is an example of how to turn a raspberry pi3 to a hotspot
-using a connection from  a usb-modem (ZTE usb modem) and not ethernet.
+using a connection from  a usb-modem (ZTE usb modem) and not from ethernet.
 
-You have to install : hostaspd and dnsmasq
+You have to install : hostapd and dnsmasq
 $sudo apt-get install hostapd
 $sudo apt-get install dnsmasq
 
