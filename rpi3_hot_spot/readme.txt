@@ -20,5 +20,7 @@ If you want to go back to the usual wifi
 
 $. ./revert.sh
 
+Remarks.
+1. If you use windows go to the settings of the wifi adapter and set DNS to automatically take address.
 
 DISCLAIMER : Use it with your own risk!
